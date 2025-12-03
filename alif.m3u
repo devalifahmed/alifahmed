@@ -2,8 +2,10 @@
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/4/1/discovery-channel-logo-png_seeklogo-41901.png" group-title="Documentory", Discovery
 #EXTVLCOPT:http-user-agent=RANAPK
 #EXTVLCOPT:http-header=Accept-Encoding=gzip
+EXTVLCOPT:http-host=fifabdm.xyz
 https://fifabdm.xyz/OPPLEX/TATA/play.php?id=245966
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/250px-National-Geographic-Logo.svg.png?20150107121724" group-title="Documentory", Nat Geo
 #EXTVLCOPT:http-user-agent=RANAPK
 #EXTVLCOPT:http-header=Accept-Encoding=gzip
 https://fifabdm.xyz/OPPLEX/TATA/play.php?id=245965
+
