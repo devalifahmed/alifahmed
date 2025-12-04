@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="Documentory", Discovery Bangla
 #EXTVLCOPT:http-user-agent=RANAPK
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:live-cache=2000
-#EXTVLCOPT:file-caching=2000
 #EXTVLCOPT:http-header=Accept-Encoding=gzip
 https://fifabdm.xyz/OPPLEX/TATA/play.php?id=245966
 
@@ -21,6 +18,7 @@ https://fifabdm.xyz/OPPLEX/TATA/play.php?id=245968
 #EXTVLCOPT:http-user-agent=RANAPK
 #EXTVLCOPT:http-header=Accept-Encoding=gzip
 https://fifabdm.xyz/OPPLEX/TATA/play.php?id=245968
+
 
 
 
