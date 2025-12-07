@@ -14,11 +14,14 @@ https://fifabdm.xyz/OPPLEX/TATA/play.php?id=109977
 #EXTVLCOPT:http-header=Accept-Encoding=gzip
 https://fifabdm.xyz/OPPLEX/TATA/play.php?id=109975
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/VDmgycWu3V624DFUT77sgEZtgj7HM6E7SNiPCXpP-J6TPXf6hF45zSeEAv9-InybuM2RQ-YHXw=s160-c-k-c0x00ffffff-no-rj" group-title="Documentory", Sony BBC Earth
-
+#EXTINF:-1 tvg-id="109978"tvg-logo="https://yt3.googleusercontent.com/VDmgycWu3V624DFUT77sgEZtgj7HM6E7SNiPCXpP-J6TPXf6hF45zSeEAv9-InybuM2RQ-YHXw=s160-c-k-c0x00ffffff-no-rj" group-title="Documentory", Sony BBC Earth
 #EXTVLCOPT:http-user-agent=RANAPK
 #EXTVLCOPT:http-header=Accept-Encoding=gzip
 https://fifabdm.xyz/OPPLEX/TATA/play.php?id=109978
+
+#EXTINF:-1 tvg-id="156168" group-title="Documentary" tvg-logo="http://picons.cmshulk.com/picons/156168.png",HINDI| ANIMAL PLANET HD
+https://fifabdm.xyz/TREX/play.php?id=156168
+
 
 
 
