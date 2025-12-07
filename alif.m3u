@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="Documentory", Discovery Bangla
+#EXTINF:-1 tvg-id="245966" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="Documentory", Discovery Bangla
 #EXTVLCOPT:http-user-agent=RANAPK
 #EXTVLCOPT:http-header=Accept-Encoding=gzip
 https://fifabdm.xyz/OPPLEX/TATA/play.php?id=245966
@@ -21,6 +21,7 @@ https://fifabdm.xyz/OPPLEX/TATA/play.php?id=109978
 
 #EXTINF:-1 tvg-id="156168" group-title="Documentary" tvg-logo="http://picons.cmshulk.com/picons/156168.png",HINDI| ANIMAL PLANET HD
 https://fifabdm.xyz/TREX/play.php?id=156168
+
 
 
 
