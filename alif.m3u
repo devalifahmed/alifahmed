@@ -25,6 +25,8 @@ https://fifabdm.xyz/TREX/play.php?id=156168
 #EXTINF:-1 tvg-id="jamuna_tv" group-title="Bangladeshi" tvg-name="Jamuna TV", Jamuna TV
 https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/jamuna_tv_576/jamuna_tv_576.m3u8?bitrate=1000000&channel=jamuna_tv_576&gp_id=|User-Agent=Toffee (Linux;Android 14)&Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1765378928:KeyName=prod_linear:Signature=v0Viiwpgkm3HeoCgXn_ydK0V3gcvzyR1uSh5tD-iLwLaIs3hEJIEShR3BFb4t7VZA9Wcow23oFQE667yoDrFBA&Accept-Encoding=gzip&If-None-Match=ceffc68551be56fb20e0e2cb6b1bc3d6
 
+#EXTINF:-1 tvg-id="26187" tvg-name="Sony Yay Hindi" tvg-logo="" group-title="Hindi",Sony Yay Hindi
+https://fifabdm.xyz/OPPLEX/TATA/play.php?id=26187|User-Agent=RANAPK&Accept-Encoding=gzip&Host=fifabdm.xyz
 
 
 
