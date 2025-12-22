@@ -1,20 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="109974" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="Documentory",Discovery All
-https://fifabdm.xyz/OPPLEX/TATA/play.php?id=109974|User-Agent=RANAPK&Accept-Encoding=gzip&Host=fifabdm.xyz
+#EXTINF:-1 tvg-id="discovery.in" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="ALIF TV",Discovery All
+http://163.61.227.29:8000/play/a01i/index.m3u8
 
-#EXTINF:-1 tvg-id="109977" tvg-logo="https://toppng.com/uploads/preview/national-geographic-logo-vector-11574250323yvbsmh9uxm.png" group-title="Documentory",Nat Geo
-https://fifabdm.xyz/OPPLEX/TATA/play.php?id=109977|User-Agent=RANAPK&Accept-Encoding=gzip&Host=fifabdm.xyz
+#EXTINF:-1 tvg-id="nationalgeographic.in" tvg-logo="https://toppng.com/uploads/preview/national-geographic-logo-vector-11574250323yvbsmh9uxm.png" group-title="Documentory",Nat Geo
+http://163.61.227.29:8000/play/a01d/index.m3u8
 
-#EXTINF:-1 tvg-id="109975" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png?20220730144446" group-title="Documentory",Animal Planet
-https://fifabdm.xyz/OPPLEX/TATA/play.php?id=109975|User-Agent=RANAPK&Accept-Encoding=gzip&Host=fifabdm.xyz
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="Documentory",Nat Geo Wild
+http://163.61.227.29:8000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-id="109978" tvg-logo="https://yt3.googleusercontent.com/VDmgycWu3V624DFUT77sgEZtgj7HM6E7SNiPCXpP-J6TPXf6hF45zSeEAv9-InybuM2RQ-YHXw=s160-c-k-c0x00ffffff-no-rj" group-title="Documentory",Sony BBC Earth
-https://fifabdm.xyz/OPPLEX/TATA/play.php?id=109978|User-Agent=RANAPK&Accept-Encoding=gzip&Host=fifabdm.xyz
+http://163.61.227.29:8000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-id="156168" tvg-logo="http://picons.cmshulk.com/picons/156168.png" group-title="Documentory",Animal Planet HD (Hindi)
 https://fifabdm.xyz/TREX/play.php?id=156168|User-Agent=RANAPK&Accept-Encoding=gzip&Host=fifabdm.xyz
 
 #EXTINF:-1 tvg-id="26187" tvg-name="Sony Yay Hindi" tvg-logo="" group-title="Hindi",Sony Yay Hindi
 https://fifabdm.xyz/OPPLEX/TATA/play.php?id=26187|User-Agent=RANAPK&Accept-Encoding=gzip&Host=fifabdm.xyz
+
 
